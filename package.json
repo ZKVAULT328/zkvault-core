@@ -1,0 +1,28 @@
+{
+  "name": "@zkvault/core",
+  "description": "Core contracts for the ZKVault protocol",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ZKVAULT328/zkvault-core"
+  },
+  "keywords": [
+    "zkvault",
+    "ethereum",
+    "core",
+    "zksync"
+  ],
+  "files": [
+    "contracts",
+    "build"
+  ],
+  "engines": {
+    "node": ">=18.15.0"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "dotenv": "^16.0.3",
+    "hardhat": "^2.13.0"
+  },
+  "license": "GPL-3.0-or-later"
+}
