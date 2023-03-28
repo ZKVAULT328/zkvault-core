@@ -1,5 +1,5 @@
 {
-  "name": "@zkvault/core",
+  "name": "@zk-vault/core",
   "description": "Core contracts for the ZKVault protocol",
   "version": "0.0.1",
   "repository": {
